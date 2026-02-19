@@ -22,7 +22,7 @@ En este primer año en el Vives, estoy construyendo mis bases en:
 A continuación detallo la distribución de horas semanales de las asignaturas que estoy cursando actualmente:
 
 | Asignatura | Horas Semanales | Descripción |
-| :--- | :---: | :--- |
+| :--- | :---: | ---: |
 | 💻 **Programación** | 8h | Desarrollo de la lógica y algoritmos (Java/Python). |
 | 🗄️ **Bases de Datos** | 6h | Diseño, gestión y consultas SQL. |
 | 🖥️ **Sistemas Informáticos** | 6h | Instalación y configuración de sistemas y redes. |
