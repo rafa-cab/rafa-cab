@@ -15,7 +15,7 @@ Me apasiona la tecnología y estoy en proceso de aprender como programar.
 ## 📚 QUE ESTOY ESTUDIANDO
 En este primer año en el Vives, estoy construyendo mis bases en:
 
-* **Programación:** Aprendiendo los fundamentos con la C# .
+* **Programación:** Aprendiendo los fundamentos con C# .
 * **Lenguajes de Marcas:** HTML y CSS para crear estructuras sólidas.
 * **Bases de Datos:** Diseño y consultas en SQL (MySQL).
 * **Entornos de Desarrollo:** Conociendo y practicando en Git, GitHub y Visual Studio Code.
