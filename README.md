@@ -3,7 +3,7 @@
 ###  Futuro Desarrollador Web | Estudiante en IES Luis Vives
 
 Actualmente estoy cursando **1º de DAW (Desarrollo de Aplicaciones Web)** en el **IES Luis Vives**. 
-Me apasiona la tecnología y estoy en pleno proceso de convertir el código en soluciones reales.
+Me apasiona la tecnología y estoy en proceso de aprender como programar.
 
 ---
 ## 📚 QUE ESTOY ESTUDIANDO
@@ -30,7 +30,7 @@ A continuación detallo la distribución de horas semanales de las asignaturas q
 | ☁️ **Fundamentos en Cloud** | 2h | Introducción a servicios en la nube y virtualización. |
 | 🛠️ **Entornos de Desarrollo** | 2h | Uso de IDEs, control de versiones (Git) y pruebas. |
 
-> **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
+ **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
 
 
 
