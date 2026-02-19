@@ -1,6 +1,6 @@
-<h1 align="center"> 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻</h1>
+### 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻
 
-### 🚀 Futuro Desarrollador Web | Estudiante en IES Luis Vives
+###  Futuro Desarrollador Web | Estudiante en IES Luis Vives
 
 Actualmente estoy cursando **1º de DAW (Desarrollo de Aplicaciones Web)** en el **IES Luis Vives**. 
 Me apasiona la tecnología y estoy en pleno proceso de convertir el código en soluciones reales.
@@ -17,8 +17,21 @@ En este primer año en el Vives, estoy construyendo mis bases en:
 
 ---
 
+## 📅 Carga Lectiva - 1º DAW (Luis Vives)
 
- 👨‍💻
+A continuación detallo la distribución de horas semanales de las asignaturas que estoy cursando actualmente:
+
+| Asignatura | Horas Semanales | Descripción |
+| :--- | :---: | :--- |
+| 💻 **Programación** | 8h | Desarrollo de la lógica y algoritmos (Java/Python). |
+| 🗄️ **Bases de Datos** | 6h | Diseño, gestión y consultas SQL. |
+| 🖥️ **Sistemas Informáticos** | 6h | Instalación y configuración de sistemas y redes. |
+| 🌐 **Lenguajes de Marcas** | 3h | HTML5, CSS3 y gestión de información (XML/JSON). |
+| ☁️ **Fundamentos en Cloud** | 2h | Introducción a servicios en la nube y virtualización. |
+| 🛠️ **Entornos de Desarrollo** | 2h | Uso de IDEs, control de versiones (Git) y pruebas. |
+
+> **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
+
 
 
 
