@@ -25,7 +25,7 @@ En este primer año en el Vives, estoy construyendo mis bases en:
 
 ## 📅 Planteamiento Semanal - 1º DAW (Luis Vives)
 
-A continuación detallo la distribución de horas semanales de las asignaturas que estoy cursando actualmente:
+A continuación muestro la cantidad de horas semanales de las asignaturas que estoy cursando actualmente:
 
 | Asignatura | Horas Semanales | Descripción |
 | :--- | :---: | ---: |
