@@ -2,6 +2,8 @@
 
 ###  Futuro Desarrollador Web | Estudiante en IES Luis Vives
 
+
+
 Actualmente estoy cursando **1º de DAW (Desarrollo de Aplicaciones Web)** en el **IES Luis Vives**. 
 Me apasiona la tecnología y estoy en proceso de aprender como programar.
 
@@ -13,11 +15,11 @@ En este primer año en el Vives, estoy construyendo mis bases en:
 * **Lenguajes de Marcas:** HTML y CSS para crear estructuras sólidas.
 * **Bases de Datos:** Diseño y consultas en SQL (MySQL).
 * **Entornos de Desarrollo:** Conociendo y practicando en Git, GitHub y Visual Studio Code.
-* **Sistemas Informaticos** EN la cual nos metemos mas dentro de los equipos y Sistemas Operativos
+* **Sistemas Informaticos** En la cual nos metemos mas dentro de los equipos y Sistemas Operativos
 
 ---
 
-## 📅 Carga Lectiva - 1º DAW (Luis Vives)
+## 📅 Planteamiento Semanal - 1º DAW (Luis Vives)
 
 A continuación detallo la distribución de horas semanales de las asignaturas que estoy cursando actualmente:
 
@@ -31,6 +33,11 @@ A continuación detallo la distribución de horas semanales de las asignaturas q
 | 🛠️ **Entornos de Desarrollo** | 2h | Uso de IDEs, control de versiones (Git) y pruebas. |
 
  **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
+
+---
+## 📫 Cómo contactarme
+- **LinkedIn:** [linkedin.com/in/rafael-achutegui-caballero-a23022294](https://linkedin.com/in/rafael-achutegui-caballero-a23022294)
+- **Email:** [rafaelachuteguicaballero@gmail.com](mailto:rafaelachuteguicaballero@gmail.com)
 
 
 
