@@ -1,11 +1,11 @@
-### 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻
+<p align="center"> ### 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻 </p>
 
 ###  Futuro Desarrollador Web | Estudiante en IES Luis Vives
 
 
 
 Actualmente estoy cursando **1º de DAW (Desarrollo de Aplicaciones Web)** en el **IES Luis Vives**. 
-Me apasiona la tecnología y estoy en proceso de aprender como programar.
+Tambien poseo el titulo en Sistemas Microinformaticos y Redes me apasiona la tecnología y estoy en proceso de aprender como programar.
 
 <div align="center">
   <img src="./img/encabezado.jpg" alt="Pantalla con código HTML" width="80%" height="200px" />
