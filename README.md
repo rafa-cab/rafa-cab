@@ -8,7 +8,7 @@ Actualmente estoy cursando **1º de DAW (Desarrollo de Aplicaciones Web)** en el
 Me apasiona la tecnología y estoy en proceso de aprender como programar.
 
 <div align="center">
-  <img src="./img/encabezado.jpg" alt="Pantalla con código HTML" width="100%" height="200px" />
+  <img src="./img/encabezado.jpg" alt="Pantalla con código HTML" width="80%" height="200px" />
 </div>
 
 ---
