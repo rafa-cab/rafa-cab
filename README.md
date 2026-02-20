@@ -36,7 +36,9 @@ A continuación muestro la cantidad de horas semanales de las asignaturas que es
 | ☁️ **Fundamentos en Cloud** | 2h | Introducción a servicios en la nube y virtualización. |
 | 🛠️ **Entornos de Desarrollo** | 2h | Uso de github, control de versiones (Git) y desarrollo de casos de uso . |
 
+ <p align="center"> 
  **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
+ </p>
 
 ---
 ## 📫 Cómo contactarme 📫
