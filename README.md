@@ -1,4 +1,4 @@
-<p align="center"> ### 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻 </p>
+<p align="center"> 👨‍💻 Hola Mundo Soy Rafael Achutegui Caballero  👨‍💻 </p>
 
 ###  Futuro Desarrollador Web | Estudiante en IES Luis Vives
 
@@ -37,7 +37,7 @@ A continuación muestro la cantidad de horas semanales de las asignaturas que es
 | 🛠️ **Entornos de Desarrollo** | 2h | Uso de github, control de versiones (Git) y desarrollo de casos de uso . |
 
  <p align="center"> 
- **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
+ Total: 27 horas lectivas semanales dedicadas a la formación técnica.
  </p>
 
 ---
