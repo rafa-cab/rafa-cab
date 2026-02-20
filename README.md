@@ -29,12 +29,12 @@ A continuación muestro la cantidad de horas semanales de las asignaturas que es
 
 | Asignatura | Horas Semanales | Descripción |
 | :--- | :---: | ---: |
-| 💻 **Programación** | 8h | Desarrollo de la lógica y algoritmos (Java/Python). |
+| 💻 **Programación** | 8h | Desarrollo de la lógica em c#. |
 | 🗄️ **Bases de Datos** | 6h | Diseño, gestión y consultas SQL. |
 | 🖥️ **Sistemas Informáticos** | 6h | Instalación y configuración de sistemas y redes. |
 | 🌐 **Lenguajes de Marcas** | 3h | HTML5, CSS3 y gestión de información (XML/JSON). |
 | ☁️ **Fundamentos en Cloud** | 2h | Introducción a servicios en la nube y virtualización. |
-| 🛠️ **Entornos de Desarrollo** | 2h | Uso de IDEs, control de versiones (Git) y pruebas. |
+| 🛠️ **Entornos de Desarrollo** | 2h | Uso de github, control de versiones (Git) y desarrollo de casos de uso . |
 
  **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
 
