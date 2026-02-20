@@ -37,7 +37,7 @@ A continuación muestro la cantidad de horas semanales de las asignaturas y un b
 | 🛠️ **Entornos de Desarrollo** | 2h | Uso de github, control de versiones (Git) y desarrollo de casos de uso . |
 
  <p align="center"> 
- Total: 27 horas lectivas semanales dedicadas a la formación técnica.
+ Total: 27 horas lectivas semanales.
  </p>
 
 ---
