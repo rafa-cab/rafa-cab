@@ -12,7 +12,7 @@ Me apasiona la tecnología y estoy en proceso de aprender como programar.
 </div>
 
 ---
-## 📚 QUE ESTOY ESTUDIANDO
+## 📚 QUE ESTOY ESTUDIANDO 📚
 En este primer año en el Vives, estoy construyendo mis bases en:
 
 * **Programación:** Aprendiendo los fundamentos con C# .
@@ -23,7 +23,7 @@ En este primer año en el Vives, estoy construyendo mis bases en:
 
 ---
 
-## 📅 Planteamiento Semanal - 1º DAW (Luis Vives)
+## 📅 Planteamiento Semanal - 1º DAW (Luis Vives)📅 
 
 A continuación muestro la cantidad de horas semanales de las asignaturas que estoy cursando actualmente:
 
@@ -39,7 +39,7 @@ A continuación muestro la cantidad de horas semanales de las asignaturas que es
  **Total: 27 horas lectivas semanales dedicadas a la formación técnica.**
 
 ---
-## 📫 Cómo contactarme
+## 📫 Cómo contactarme 📫
 - **LinkedIn:** [linkedin.com/in/rafael-achutegui-caballero-a23022294](https://linkedin.com/in/rafael-achutegui-caballero-a23022294)
 - **Email:** [rafaelachuteguicaballero@gmail.com](mailto:rafaelachuteguicaballero@gmail.com)
 
